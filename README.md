@@ -1,2 +1,3 @@
-# Poker_Game
-A poker game written in Java.
+# Poker Game
+
+A program written to be a text-based single player poker game. It is the player against the computer. When the program is launched, the first thing the player sees is the payout table for winning hands and an option to enter a bet. The player begins with a default value of $100 and you must bet at least $1. One a bet is submitted a hand of 5 cards will be delt and the player must select which cards to keep and the others will be removed and replaced immediately. At this point if the player has a winning hand the computer will congratulate and give the player their winnings multiplied by that winning hand's multiplier. Lastly, the player will be prompted to either exit the game with their current winnings or to continue playing with their new balance.
